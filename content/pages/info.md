@@ -206,14 +206,14 @@ sections:
       - type: Label
         label: Unreal Engine
       - type: Label
+        label: Substance Painter
+        url: ''
+      - type: Label
         label: Java
       - type: Label
         label: MySQL
       - type: Label
         label: JavaScript
-      - type: Label
-        label: Substance Painter
-        url: ''
       - type: Label
         label: Blender
         url: ''
