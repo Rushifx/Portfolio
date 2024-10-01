@@ -198,7 +198,7 @@ sections:
       - type: Label
         label: HTML/CSS
       - type: Label
-        label: React
+        label: Adobe Suite
       - type: Label
         label: Microsoft Office
       - type: Label
