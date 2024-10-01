@@ -208,7 +208,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: C++
+        label: MySQL
       - type: Label
         label: JavaScript
   - type: DividerSection
