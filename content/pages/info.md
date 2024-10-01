@@ -124,15 +124,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://github.com/Rushifx'
         styles:
           self:
             textAlign: left
@@ -140,15 +132,20 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: www.linkedin.com/in/toh-colin
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            label: Artstation
+            altText: ''
+            url: '/https://www.artstation.com/rushiferu'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
@@ -157,14 +154,6 @@ sections:
           - type: Link
             label: Discord
             url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
         styles:
           self:
             textAlign: left
@@ -207,21 +196,36 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Adobe Suite
       - type: Label
-        label: React
+        label: Maya
       - type: Label
-        label: Microsoft Office
+        label: Substance Painter
+        url: ''
       - type: Label
-        label: Next.js
+        label: Unity
       - type: Label
-        label: Netlify
+        label: Unreal Engine
       - type: Label
-        label: Pancakes
+        label: Blender
+        url: ''
       - type: Label
-        label: C++
+        label: Godot/GDScript
+        url: ''
       - type: Label
-        label: Swift
+        label: HTML/CSS
+      - type: Label
+        label: JavaScript
+      - type: Label
+        label: Git/Github
+        url: ''
+      - type: Label
+        label: Java
+      - type: Label
+        label: MySQL
+      - type: Label
+        label: Spring Boot
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -239,7 +243,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [tohbingshan.colin@gmail.com](mailto:tohbingshan.colin@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -381,11 +385,6 @@ sections:
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
