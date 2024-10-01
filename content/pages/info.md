@@ -207,6 +207,9 @@ sections:
       - type: Label
         label: Unreal Engine
       - type: Label
+        label: Blender
+        url: ''
+      - type: Label
         label: HTML/CSS
       - type: Label
         label: Java
@@ -214,9 +217,6 @@ sections:
         label: MySQL
       - type: Label
         label: JavaScript
-      - type: Label
-        label: Blender
-        url: ''
       - type: Label
         label: Godot/GDScript
         url: ''
