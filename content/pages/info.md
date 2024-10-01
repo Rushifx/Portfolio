@@ -260,26 +260,21 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Freelance web designer
 
-          **2018-2021**
+          **2020**
 
-          * fullstack at this startup
+          *   3D Artist Intern @ NYP SIT
 
-          **2015**
+          **2016**
 
-          * senior front-end at this place
+          *   Game Artist Intern @ Augmented Humans Lab
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
