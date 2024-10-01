@@ -203,11 +203,11 @@ sections:
         label: Substance Painter
         url: ''
       - type: Label
-        label: HTML/CSS
-      - type: Label
         label: Unity
       - type: Label
         label: Unreal Engine
+      - type: Label
+        label: HTML/CSS
       - type: Label
         label: Java
       - type: Label
