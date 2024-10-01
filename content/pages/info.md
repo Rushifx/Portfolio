@@ -217,6 +217,9 @@ sections:
       - type: Label
         label: Blender
         url: ''
+      - type: Label
+        label: Godot/GDScript
+        url: ''
   - type: DividerSection
     styles:
       self:
