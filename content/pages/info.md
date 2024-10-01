@@ -139,7 +139,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: Artstation
             altText: ''
             url: '/https://www.artstation.com/rushiferu'
             showIcon: false
