@@ -197,14 +197,14 @@ sections:
       - type: Label
         label: Adobe Suite
       - type: Label
-        label: Maya
-      - type: Label
         label: Substance Painter
         url: ''
       - type: Label
         label: Unity
       - type: Label
         label: Unreal Engine
+      - type: Label
+        label: Maya
       - type: Label
         label: Blender
         url: ''
