@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "tohbingshan.colin@gmail.com",
             "emailAltText": "My email",
-            "address": " Singapore",
+            "address": "Singapore",
             "addressAltText": " Singapore"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
