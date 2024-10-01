@@ -93,7 +93,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Untitled design (1).png
-        altText: altText of the image
+        altText: Logo Eight
         caption: Caption of the image
         elementId: ''
     spacing: 3
