@@ -53,14 +53,14 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:tohbingshan.colin@gmail.com",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/Rushifx",
+                "altText": "Github"
             }
         ],
         "contacts": {
