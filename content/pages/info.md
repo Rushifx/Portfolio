@@ -306,6 +306,10 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |+
+          **2024**
+
+          *   Full-Stack Development Program @ Temasek Polytechnic
+
           **2017-2020**
 
           *   Diploma in Digital Game Arts & Design @ Nanyang Polytechnic
