@@ -140,6 +140,13 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
+        - type: TextFormControl
+          name: Contact Number
+          label: Contact Number
+          hideLabel: false
+          placeholder: Your number
+          width: 1/2
+          isRequired: false
         - name: email
           label: Email
           hideLabel: true
@@ -153,13 +160,6 @@ sections:
           hideLabel: false
           placeholder: Type your message here
           width: full
-          isRequired: false
-        - type: TextFormControl
-          name: Contact Number
-          label: Contact Number
-          hideLabel: false
-          placeholder: Your number
-          width: 1/2
           isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
