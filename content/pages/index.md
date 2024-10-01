@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-d
     backgroundSize: full
     title: 'I’m a FULL-STACK developer, UX/UI Artist.'
     subtitle: >-
