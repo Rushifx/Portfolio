@@ -217,12 +217,12 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
+        label: Git/Github
+        url: ''
+      - type: Label
         label: Java
       - type: Label
         label: MySQL
-      - type: Label
-        label: Git/Github
-        url: ''
       - type: Label
         label: Spring Boot
         url: ''
