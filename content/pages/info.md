@@ -206,7 +206,7 @@ sections:
       - type: Label
         label: Maya
       - type: Label
-        label: Pancakes
+        label: Java
       - type: Label
         label: C++
       - type: Label
