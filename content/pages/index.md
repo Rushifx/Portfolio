@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m a FULL-STACK developer, UX/UI & 3D Artist.'
+    title: 'I’m a FULL-STACK developer, UX/UI , 3D Artist AND GAME DESIGNER.'
     subtitle: >-
       This is what I have been working on in the past few years. If you’re
       impressed, you can continue to scroll down to see more details and
