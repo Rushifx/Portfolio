@@ -214,6 +214,9 @@ sections:
       - type: Label
         label: Substance Painter
         url: ''
+      - type: Label
+        label: Blender
+        url: ''
   - type: DividerSection
     styles:
       self:
