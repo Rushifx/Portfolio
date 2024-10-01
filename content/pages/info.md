@@ -204,7 +204,7 @@ sections:
       - type: Label
         label: Unreal Engine
       - type: Label
-        label: Netlify
+        label: Maya
       - type: Label
         label: Pancakes
       - type: Label
