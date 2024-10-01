@@ -156,7 +156,7 @@ sections:
           isRequired: false
         - type: TextFormControl
           name: Contact Number
-          label: Name
+          label: Contact Number
           hideLabel: false
           placeholder: Your name
           width: 1/2
