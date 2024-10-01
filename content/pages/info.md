@@ -210,7 +210,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: JavaScript
   - type: DividerSection
     styles:
       self:
