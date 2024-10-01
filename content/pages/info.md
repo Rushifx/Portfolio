@@ -92,7 +92,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/WhatsApp Image 2024-07-22 at 7.05.48 PM (1).jpeg
+        url: /images/Untitled design (1).png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
