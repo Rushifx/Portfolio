@@ -223,6 +223,9 @@ sections:
       - type: Label
         label: Git/Github
         url: ''
+      - type: Label
+        label: Spring Boot
+        url: ''
   - type: DividerSection
     styles:
       self:
