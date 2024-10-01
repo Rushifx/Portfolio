@@ -88,7 +88,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/download.png
-        altText: altText of the image
+        altText: Logo Seven
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
