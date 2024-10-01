@@ -285,18 +285,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2017-2020**
 
-          * ba computer sciense at a semi fancy school
+          *   Diploma in Digital Game Arts & Design at Nanyang Polytechnic
 
-          **2014**
+          **2015-2017**
 
-          * react certificate somewhere
+          *   Higher Nitec in Game Arts & Design in ITE College Central
 
-          **2011**
+          **2013-2015**
 
-          * my highschool
+          *   Nitec in Interactive Media Design at ITE College Central
+
         styles:
           self:
             textAlign: left
