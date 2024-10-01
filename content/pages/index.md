@@ -154,13 +154,6 @@ sections:
           placeholder: Type your message here
           width: full
           isRequired: false
-        - type: TextFormControl
-          name: Contact Number
-          label: Name
-          hideLabel: false
-          placeholder: Your name
-          width: 1/2
-          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
