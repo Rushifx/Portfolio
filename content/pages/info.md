@@ -220,6 +220,9 @@ sections:
       - type: Label
         label: Godot/GDScript
         url: ''
+      - type: Label
+        label: Git/Github
+        url: ''
   - type: DividerSection
     styles:
       self:
