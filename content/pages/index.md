@@ -158,7 +158,7 @@ sections:
           name: Contact Number
           label: Contact Number
           hideLabel: false
-          placeholder: Your name
+          placeholder: Your number
           width: 1/2
           isRequired: false
       submitLabel: "Submit \U0001F680"
