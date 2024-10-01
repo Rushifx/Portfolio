@@ -215,11 +215,11 @@ sections:
       - type: Label
         label: HTML/CSS
       - type: Label
+        label: JavaScript
+      - type: Label
         label: Java
       - type: Label
         label: MySQL
-      - type: Label
-        label: JavaScript
       - type: Label
         label: Git/Github
         url: ''
