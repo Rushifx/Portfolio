@@ -132,7 +132,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: www.linkedin.com/in/toh-colin
         styles:
           self:
             textAlign: left
