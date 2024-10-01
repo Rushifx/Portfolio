@@ -62,25 +62,45 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/company0.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/company1.jpg
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/company2.jpg
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/company3.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/company4.jpg
         altText: Logo five
         caption: Logo five
+      - type: ImageBlock
+        url: /images/smamobile_logo.png
+        altText: Logo Six
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: /images/download.png
+        altText: Logo Seven
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Untitled design (1).png
+        altText: Logo Eight
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: /images/company5.webp
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
