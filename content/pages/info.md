@@ -198,13 +198,13 @@ sections:
       - type: Label
         label: Adobe Suite
       - type: Label
+        label: Maya
+      - type: Label
         label: HTML/CSS
       - type: Label
         label: Unity
       - type: Label
         label: Unreal Engine
-      - type: Label
-        label: Maya
       - type: Label
         label: Java
       - type: Label
