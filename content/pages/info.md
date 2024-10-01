@@ -83,7 +83,7 @@ sections:
         caption: Logo five
       - type: ImageBlock
         url: /images/smamobile_logo.png
-        altText: Logo5
+        altText: Logo Six
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
