@@ -288,15 +288,15 @@ sections:
         text: |+
           **2017-2020**
 
-          *   Diploma in Digital Game Arts & Design at Nanyang Polytechnic
+          *   Diploma in Digital Game Arts & Design @ Nanyang Polytechnic
 
           **2015-2017**
 
-          *   Higher Nitec in Game Arts & Design in ITE College Central
+          *   Higher Nitec in Game Arts & Design @ ITE College Central
 
           **2013-2015**
 
-          *   Nitec in Interactive Media Design at ITE College Central
+          *   Nitec in Interactive Media Design @ ITE College Central
 
         styles:
           self:
