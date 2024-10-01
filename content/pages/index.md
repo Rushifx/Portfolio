@@ -142,7 +142,7 @@ sections:
           type: TextFormControl
         - type: TextFormControl
           name: Contact Number
-          label: Contact Number
+          label: ''
           hideLabel: false
           placeholder: Your number
           width: 1/2
