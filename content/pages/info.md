@@ -200,7 +200,7 @@ sections:
       - type: Label
         label: Adobe Suite
       - type: Label
-        label: Microsoft Office
+        label: Unity
       - type: Label
         label: Next.js
       - type: Label
