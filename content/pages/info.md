@@ -13,11 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hi there, I recently transitioned into Full-Stack Development but I am
+      also a UI/UX, 3D Artist, and Game Designer. 
+
     media:
       type: ImageBlock
       url: /images/Untitled design.png
@@ -198,14 +197,14 @@ sections:
       - type: Label
         label: Adobe Suite
       - type: Label
-        label: Maya
-      - type: Label
         label: Substance Painter
         url: ''
       - type: Label
         label: Unity
       - type: Label
         label: Unreal Engine
+      - type: Label
+        label: Maya
       - type: Label
         label: Blender
         url: ''
@@ -261,26 +260,21 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Freelance web designer
 
-          **2018-2021**
+          **2020**
 
-          * fullstack at this startup
+          *   3D Artist Intern @ NYP SIT
 
-          **2015**
+          **2016**
 
-          * senior front-end at this place
+          *   Game Artist Intern @ Augmented Humans Lab
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -291,18 +285,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2017-2020**
 
-          * ba computer sciense at a semi fancy school
+          *   Diploma in Digital Game Arts & Design @ Nanyang Polytechnic
 
-          **2014**
+          **2015-2017**
 
-          * react certificate somewhere
+          *   Higher Nitec in Game Arts & Design @ ITE College Central
 
-          **2011**
+          **2013-2015**
 
-          * my highschool
+          *   Nitec in Interactive Media Design @ ITE College Central
+
         styles:
           self:
             textAlign: left
