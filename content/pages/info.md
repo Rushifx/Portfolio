@@ -196,9 +196,9 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: HTML/CSS
-      - type: Label
         label: Adobe Suite
+      - type: Label
+        label: HTML/CSS
       - type: Label
         label: Unity
       - type: Label
