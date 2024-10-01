@@ -210,6 +210,9 @@ sections:
         label: Blender
         url: ''
       - type: Label
+        label: Godot/GDScript
+        url: ''
+      - type: Label
         label: HTML/CSS
       - type: Label
         label: Java
@@ -217,9 +220,6 @@ sections:
         label: MySQL
       - type: Label
         label: JavaScript
-      - type: Label
-        label: Godot/GDScript
-        url: ''
       - type: Label
         label: Git/Github
         url: ''
