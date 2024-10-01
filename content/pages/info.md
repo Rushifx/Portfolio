@@ -243,7 +243,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [tohbingshan.colin@gmail.com](mailto:thisismyemail.@myemail.me)
+      [tohbingshan.colin@gmail.com](mailto:tohbingshan.colin@gmail.com)
   - type: DividerSection
     styles:
       self:
