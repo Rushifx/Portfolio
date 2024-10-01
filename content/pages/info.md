@@ -92,8 +92,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/WhatsApp Image 2024-07-22 at 7.05.48 PM (1).jpeg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
