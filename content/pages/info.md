@@ -211,6 +211,9 @@ sections:
         label: MySQL
       - type: Label
         label: JavaScript
+      - type: Label
+        label: Substance Painter
+        url: ''
   - type: DividerSection
     styles:
       self:
