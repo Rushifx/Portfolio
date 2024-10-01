@@ -161,6 +161,13 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: false
+          placeholder: Type your message here
+          width: full
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
