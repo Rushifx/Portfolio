@@ -5,7 +5,7 @@ colors: colors-a
 date: '2019-06-20'
 client: ''
 description: >-
-  Game designed with Godot Enginer, My role in this project is Lead Level
+  Game designed with Godot Engine, My role in this project is Lead Level
   Designer
 featuredImage:
   type: ImageBlock
