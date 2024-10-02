@@ -5,9 +5,8 @@ colors: colors-a
 date: '2019-06-20'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Game designed with Godot Enginer, My role in this project is Lead Level
+  Designer
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
