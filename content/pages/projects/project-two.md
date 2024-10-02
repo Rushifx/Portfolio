@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-10-03'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Final year project in my diploma in Digital Game Arts & Design, My role was
+  the lead 3D Artist and Level Designer
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
