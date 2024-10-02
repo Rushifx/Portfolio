@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: here
+        label: About Me
         altText: ''
         url: /info
         showIcon: false
