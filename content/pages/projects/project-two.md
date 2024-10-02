@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Project JUICE'EM
 colors: colors-a
-date: '2020-10-20'
+date: '2024-10-03'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
