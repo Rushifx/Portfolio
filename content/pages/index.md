@@ -16,8 +16,8 @@ sections:
     title: 'I’m a FULL-STACK developer, UX/UI , 3D Artist AND GAME DESIGNER.'
     subtitle: >-
       This is what I have been working on in the past few years. If you’re
-      impressed, you can continue to scroll down to see more details and
-      credentials about me.
+      impressed with what you see here, you can check out more information about
+      me.
     styles:
       self:
         height: auto
@@ -44,7 +44,15 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Link
+        label: About Me
+        altText: ''
+        url: /info
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
