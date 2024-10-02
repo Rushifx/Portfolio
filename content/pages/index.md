@@ -16,7 +16,7 @@ sections:
     title: 'I’m a FULL-STACK developer, UX/UI , 3D Artist AND GAME DESIGNER.'
     subtitle: >-
       This is what I have been working on in the past few years. If you’re
-      impressed with what you see here, you can check out more information ⮟
+      impressed with what you see here, you can check out more information here⮟
     styles:
       self:
         height: auto
