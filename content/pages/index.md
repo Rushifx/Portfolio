@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       This is what I have been working on in the past few years. If you’re
       impressed with what you see here, you can check out more information about
-      me in
+      me in 
     styles:
       self:
         height: auto
