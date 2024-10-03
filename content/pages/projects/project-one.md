@@ -5,8 +5,8 @@ colors: colors-a
 date: '2019-06-20'
 client: ''
 description: >-
-  Game designed with Godot Engine, My role in this project is Lead Level
-  Designer
+  Game designed with Godot Engine, My role in this project is Lead Programmer
+  and Level Designer
 featuredImage:
   type: ImageBlock
   url: /images/reptile.png
