@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Reptile XPress
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+date: '2019-06-20'
+client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  The game was designed with Godot Engine, My role in this project is Lead
+  Programmer and Level Designer.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/reptile.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
