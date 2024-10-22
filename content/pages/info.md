@@ -245,6 +245,9 @@ sections:
       - type: Label
         label: Spring Boot
         url: ''
+      - type: Label
+        label: React.js
+        url: ''
   - type: DividerSection
     styles:
       self:
