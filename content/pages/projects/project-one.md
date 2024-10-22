@@ -4,9 +4,7 @@ title: Reptile XPress
 colors: colors-a
 date: '2019-06-20'
 client: ''
-description: >-
-  The game was designed with Construct 2, My role in this project is Lead
-  Programmer and Level Designer.
+description: 2D Platformer game made with Construct 2
 featuredImage:
   type: ImageBlock
   url: /images/reptile.png
