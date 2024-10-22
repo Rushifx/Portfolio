@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Colmar Academy
 date: '2024-08-14'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
