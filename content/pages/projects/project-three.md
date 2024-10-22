@@ -21,4 +21,10 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
-https\://seagowhere.netlify.app/
+<https://seagowhere.netlify.app/>
+
+Our Frontend stack consists of the 3 core programming languages, with the decision to incorporate the Bootstrap V5.3.3 Framework and library owing to its responsive design components and ease of insertion and use within HTML/CSS code syntax.
+
+For our Backend stack, the decision to use MySQL Relational Database Management System (RDBMS) and Spring Application Framework, inclusive of SpringBoot and Spring Data JPA (Java Persistence API) within a Java language environment primarily stems from Spring's versitality and ease of deployability, particularly in the area of autoconfigured dependency injections. This includes the Spring Security dependency, which accords highly customizable authentication and access control frameworks, critical to our application requirements as a travel booking website.
+
+The suite of tools that support this tech stack include Visual Studio Code and IntelliJ IDEA Integrated Development Environment (IDE) for its versatility as well as Git Terminal Command Line Utility (CLI) features, with GitHub serving as the repository platform for code sharing, deployment and version control. This is rounded off by a suite of validation and unit testing frameworks, including Mockito, JUnit5 and Postman API platform.
