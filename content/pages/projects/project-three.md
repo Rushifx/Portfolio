@@ -18,7 +18,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/screencapture-seagowhere-netlify-app-2024-10-22-21_33_25.png
   altText: Project image
 ---
 <https://seagowhere.netlify.app/>
