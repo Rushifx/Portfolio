@@ -4,7 +4,9 @@ title: Reptile XPress
 colors: colors-a
 date: '2019-06-20'
 client: ''
-description: 2D Platformer game made with Construct 2
+description: >-
+  Reptile Xpress is a 2D Platformer game made with Construct 2 where the player
+  plays as a delivery lizard delivering mail boxes to the 
 featuredImage:
   type: ImageBlock
   url: /images/reptile.png
