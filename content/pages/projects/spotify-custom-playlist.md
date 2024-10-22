@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: This is a project title
 date: '2024-10-08'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
