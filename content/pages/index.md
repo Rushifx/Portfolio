@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m a FULL-STACK developer, UX/UI , 3D Artist AND GAME DESIGNER.'
+    title: 'I’m a FULL-STACK developer with experience with ui/ux, 3d and game design.'
     subtitle: >-
       This is what I have been working on in the past few years. If you’re
       impressed with what you see here, you can check out more information about
@@ -83,65 +83,4 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: Name
-          label: Name
-          hideLabel: true
-          placeholder: Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - type: TextFormControl
-          name: Contact Number
-          label: ''
-          hideLabel: false
-          placeholder: Your number
-          width: 1/2
-          isRequired: false
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - type: TextareaFormControl
-          name: message
-          label: ''
-          hideLabel: false
-          placeholder: Type your message here
-          width: full
-          isRequired: false
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---
