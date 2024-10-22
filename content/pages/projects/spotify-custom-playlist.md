@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Jammming
+title: Spotify Playlist
 date: '2024-10-08'
 client: ''
 description: >-
