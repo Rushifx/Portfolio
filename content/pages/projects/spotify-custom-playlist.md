@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Jammming
 date: '2024-10-08'
 client: ''
 description: >-
