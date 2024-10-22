@@ -5,8 +5,13 @@ colors: colors-a
 date: '2024-10-28'
 client: ''
 description: >-
-  A capstone project during my time in the 3-month programme with my team. I
-  mostly handled the front-end development.
+  SEAGoWhere is full stack web application product developed as a platform for
+  the modern traveller and thrillseeker to seek out bespoke and novel
+  experiences within the South East Asian (SEA) region. Its premise is to enable
+  the user to simply find what visually hooks them, book, pay and finally set
+  off for their next adventure with ease via a deliberately crafted frontend
+  UI/UX as well as robust backend applications supporting authentication,
+  booking and payment functions.
 featuredImage:
   type: ImageBlock
   url: /images/logo2-transparent.png
