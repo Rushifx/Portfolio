@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Colmar Academy
 date: '2024-08-14'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Created using HTML and CSS to be a responsive webpage for both web and mobile
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
