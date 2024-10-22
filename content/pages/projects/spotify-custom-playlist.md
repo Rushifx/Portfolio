@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Spotify Playlist
 date: '2024-10-08'
 client: ''
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Created using React.js to create custom playlists on spotify
 featuredImage:
   type: ImageBlock
   url: /images/image.png
