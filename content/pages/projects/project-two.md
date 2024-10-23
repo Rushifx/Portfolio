@@ -9,7 +9,7 @@ description: >-
   Unity as a game where you get to play as a hamster in a royal rumble setting.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/t-colin-gamelevel.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
