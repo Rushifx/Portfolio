@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/juiceem.png
+  url: /images/gameplay.png
   altText: Project image
 ---
 Final year project in my diploma in Digital Game Arts & Design, My role was the lead 3D Artist and Level Designer
