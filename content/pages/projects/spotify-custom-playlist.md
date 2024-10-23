@@ -26,3 +26,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+link to github repository
+
+<https://github.com/Rushifx/react_musicapp>
