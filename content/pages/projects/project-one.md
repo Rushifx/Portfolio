@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/geckoxpress.png
   altText: Project image
 ---
 The game was designed with Construct 2, My role in this project is Lead Programmer and Level Designer.
