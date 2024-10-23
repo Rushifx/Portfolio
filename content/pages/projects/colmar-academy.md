@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/screencapture-127-0-0-1-3000-index-html-2024-10-23-22_03_53.png
   altText: Project image
   caption: Caption of the image
   elementId: ''
