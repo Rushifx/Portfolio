@@ -9,11 +9,11 @@ description: >-
   Unity as a game where you get to play as a hamster in a royal rumble setting.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/juiceem.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/gameplay.png
   altText: Project image
 ---
 Final year project in my diploma in Digital Game Arts & Design, My role was the lead 3D Artist and Level Designer
