@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/t-colin-gamelevel.jpg
+  url: /images/screencapture-127-0-0-1-3000-index-html-2024-10-23-22_03_53.png
   altText: Project image
 ---
 Final year project in my diploma in Digital Game Arts & Design, My role was the lead 3D Artist and Level Designer
