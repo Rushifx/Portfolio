@@ -4,7 +4,9 @@ title: Project JUICE'EM
 colors: colors-a
 date: '2024-10-03'
 client: ''
-description: 3D VR Game utilizing the YawVR system made with Unity
+description: >-
+  Project Juice'em is a 3D VR Game utilizing the YawVR system developed with
+  Unity as a game where you get to play as a hamster in a royal rumble setting.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
