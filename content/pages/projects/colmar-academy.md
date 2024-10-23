@@ -6,7 +6,7 @@ client: ''
 description: Created using HTML and CSS to be a responsive webpage for both web and mobile
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Untitled video - Made with Clipchamp.gif
   altText: Project thumbnail image
   caption: ''
   elementId: ''
