@@ -6,13 +6,13 @@ client: ''
 description: Created using HTML and CSS to be a responsive webpage for both web and mobile
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Untitled video - Made with Clipchamp.gif
   altText: Project thumbnail image
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/screencapture-127-0-0-1-3000-index-html-2024-10-23-22_03_53.png
   altText: Project image
   caption: Caption of the image
   elementId: ''
